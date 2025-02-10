@@ -123,7 +123,7 @@
         .carousel__slide {
             display: flex;
             flex-direction: column;
-            /* Aliñaa os elementos verticalmente */
+            /* Aliña os elementos verticalmente */
             align-items: center;
             /* Centra horizontalmente */
             text-align: center;
@@ -172,10 +172,10 @@
             max-width: 100%;
             /* Asegura que a imagen non se desborde */
             height: auto;
-            /* Mantiene a relación de aspecto */
+            /* Manten a relación de aspecto */
         }
 
-        /* Media query para tablets e móvis */
+        /* Media query para tablets e móbis */
         @media (max-width: 768px) and (orientation: portrait) {
 
             .carousel__prev,
